@@ -12,6 +12,7 @@
 /.vscode
 /.zed
 /auth.json
+/bootstrap/ssr
 /node_modules
 /public/build
 /public/hot
@@ -22,3 +23,5 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+bun.lock
+package-lock.json
