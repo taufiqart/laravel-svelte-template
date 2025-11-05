@@ -13,7 +13,7 @@
 
     <!-- Scripts -->
     @routes
-    @vite(['resources/js/app.js', "resources/js/pages/{$page['component']}.svelte"])
+    @vite(['resources/js/app.js'])
     @inertiaHead
 </head>
 
